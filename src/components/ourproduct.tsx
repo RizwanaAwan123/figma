@@ -22,6 +22,7 @@ export default function OurProduct() {
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-4 gap-6 mt-10">
           {FeatureImage.map((val, i) => (
             <div key={i} className="flex flex-col items-center bg-white rounded-lg shadow-lg overflow-hidden transform transition-transform duration-300 hover:scale-105 hover:shadow-2xl">
+             
               <div className="w-full h-64 overflow-hidden">
                 <Image
                   src={val}
@@ -38,6 +39,7 @@ export default function OurProduct() {
                 </div>
                 <div className="flex items-center">
                   <FaCartShopping className="w-6 h-6 sm:w-8 sm:h-8 text-emerald-500 cursor-pointer transition-transform duration-300 hover:scale-110" />
+                  
                 </div>
               </div>
             </div>
