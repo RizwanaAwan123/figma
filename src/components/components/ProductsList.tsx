@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Image from "next/image";
-import  client  from "@/sanity/lib/client";
+import  { client }  from "@/sanity/lib/client";
 
 interface Product {
   name: string;

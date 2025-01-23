@@ -1,7 +1,8 @@
 "use client";
 
+import Footer from "@/components/footer";
 import React, { useState } from "react";
-import Footer from "../footer/page";
+
 
 export default function CheckoutPage() {
     const [paymentMethod, setPaymentMethod] = useState<"cod" | "bank" | null>(null);

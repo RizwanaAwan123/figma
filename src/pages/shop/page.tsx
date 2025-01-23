@@ -1,8 +1,7 @@
 "use client";
 
 import React, { useEffect, useState } from "react";
-// import Navbar from "@/navbar/page";
-// import Footer from "@/app/footer/page";
+
 
 import Image from "next/image";
 import FilterPanel from "@/components/components/FilterPanel/FilterPanel";
