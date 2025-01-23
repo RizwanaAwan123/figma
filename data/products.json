@@ -1,0 +1,64 @@
+[
+    {
+      "id": "1",
+      "name": "White Wooden Chair",
+      "price": 20,
+      "imageUrl": "/images/white-chair.jpeg",
+      "isNew": true,
+      "description": "A classic white wooden chair, perfect for any dining room or kitchen. Its simple design and sturdy construction make it a timeless piece."
+    },
+    {
+      "id": "2",
+      "name": "Pink Velvet Chair",
+      "price": 30,
+      "originalPrice": 80,
+      "imageUrl": "/images/pink-velvet.jpeg",
+      "isOnSale": true,
+      "description": "Luxurious pink velvet chair with comfortable cushioning and stylish design. This statement piece will add a touch of elegance to any room."
+    },
+    {
+      "id": "3",
+      "name": "Orange Chair",
+      "price": 20,
+      "imageUrl": "/images/orange-chair.jpeg",
+      "description": "A vibrant orange chair that adds a pop of color to your space. Its modern design and comfortable seat make it perfect for relaxing or entertaining guests."
+    },
+    {
+      "id": "4",
+      "name": "White Tufted Chair",
+      "price": 20,
+      "imageUrl": "/images/white-tuf.jpeg",
+      "description": "Elegant white tufted chair with a classic design. This chair is perfect for adding a touch of sophistication to your living room or bedroom."
+    },
+    {
+      "id": "5",
+      "name": "Brown Swivel Chair",
+      "price": 20,
+      "imageUrl": "/images/brown-sw.jpeg",
+      "isNew": true,
+      "description": "Comfortable brown swivel chair perfect for home offices or living rooms. Its adjustable height and swivel function provide optimal comfort and flexibility."
+    },
+    {
+      "id": "6",
+      "name": "Brown Upholstered Chair",
+      "price": 20,
+      "originalPrice": 45,
+      "imageUrl": "/images/brown-up.jpeg",
+      "isOnSale": true,
+      "description": "Stylish brown upholstered chair with a sleek design. This chair is perfect for adding a modern touch to your dining room or living area."
+    },
+    {
+      "id": "7",
+      "name": "Black Chair with Pillow",
+      "price": 20,
+      "imageUrl": "/images/black-chair.jpeg",
+      "description": "Modern black chair with a comfortable pillow. This chair is perfect for relaxing after a long day or enjoying a good book."
+    },
+    {
+      "id": "8",
+      "name": "Simple White Chair",
+      "price": 20,
+      "imageUrl": "/images/white-chair.jpeg",
+      "description": "A simple and versatile white chair that complements any decor. Its lightweight design makes it easy to move around and its sturdy construction ensures durability."
+    }
+  ]

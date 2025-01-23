@@ -5,10 +5,10 @@ import { apiVersion, dataset, projectId } from '../env'
 
 
 dotenv.config()
-export const client = createClient({
+ const client = createClient({
   projectId:"a6v3tvko",
   dataset: "production",
   apiVersion,
   useCdn: true, // Set to false if statically generating pages, using ISR or tag-based revalidation
 });
- export default client ;
+ export default client
