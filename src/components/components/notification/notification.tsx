@@ -9,7 +9,8 @@ const Notification = () => {
     setTimeout(() => {
       setShowNotification(false);
     }, 3000); // Hide the notification after 3 seconds
-  }, []);
+    
+ }, []);
 
   return (
     showNotification && (
