@@ -1,5 +1,7 @@
 {
   "compilerOptions": {
+    "types": ["node", "estree", "event-source-polyfill", "json-schema", "source-list-map", "uglify-js"],
+
     "target": "ES2017",
     "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,

@@ -180,17 +180,17 @@ const Home = () => {
       </div>
       </div>
 
-            <div className="header flex justify-between items-center p-6 bg-indigo-600 text-white">
+            <div className="header flex justify-between items-center p-6 bg-slate-600 text-white">
                 <div></div>
                 <div>
                     <UserProfile user={user} />
                 </div>
             </div>
 
-            <div className="hero flex flex-col justify-center items-center text-center bg-gradient-to-r from-blue-500 to-purple-500 text-white py-16">
-                <h1 className="text-4xl font-bold mb-4">Welcome to Comforty</h1>
+            <div className="hero flex flex-col justify-center items-center text-center bg-slate-600 from--500 to-blue-500 text-white py-16">
+                <h1 className="text-4xl font-bold mb-4">WELCOME TO CHAIRY</h1>
                 <p className="text-lg mb-6">
-                    Discover the perfect furniture for your space with free shipping over $50.
+                    Best furniture collection for your interior.
                 </p>
                 <Image
                             src="/chairhome.png"
