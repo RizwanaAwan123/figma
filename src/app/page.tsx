@@ -120,6 +120,7 @@ import UserProfile from "@/components/components/UserProfile/UserProfile";
 import Feature from "@/components/feauture";
 import Footer from "@/components/footer";
 import Navbar from "@/components/navbar";
+import ProductPage from "@/product[id]/page";
 import Image from "next/image";
 import Link from "next/link";
 

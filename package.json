@@ -1,5 +1,5 @@
 {
-  "name": "hackathon-figma-design",
+  "name": "figma-design",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -29,7 +29,7 @@
     "@eslint/eslintrc": "^3",
     "@types/estree": "^1.0.6",
     "@types/event-source-polyfill": "^1.0.5",
-    "@types/json-schema": "^7.0.15",
+     "@types/json-schema": "^7.0.15",
     "@types/next": "^8.0.7",
     "@types/node": "^20.17.16",
     "@types/react": "^19.0.8",

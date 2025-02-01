@@ -1,4 +1,4 @@
-
+"use client"
 import { useRouter } from "next/router";
 import { useEffect, useState } from "react";
 import Image from "next/image";
@@ -26,7 +26,7 @@ export default function ProductPage() {
         const fetchProduct = async () => {
             try {
                
-              const response = await fetch(`/api/products/${id}`);
+              const response = await fetch  (`/api/products/${id}`);
                 if (!response.ok) {
                   setProduct(null);
                 } else {
